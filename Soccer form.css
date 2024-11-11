@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://i2-prod.football.london/incoming/article15562742.ece/ALTERNATES/s1200/0_IMG_0313.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 900px;
+    width: 14%;
+    padding-left: 15px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
